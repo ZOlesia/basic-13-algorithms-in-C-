@@ -1,0 +1,10 @@
+C:\Users\56ole\Desktop\DojoAssignments\netCore\basic13\bin\Debug\netcoreapp2.0\basic13.deps.json
+C:\Users\56ole\Desktop\DojoAssignments\netCore\basic13\bin\Debug\netcoreapp2.0\basic13.runtimeconfig.json
+C:\Users\56ole\Desktop\DojoAssignments\netCore\basic13\bin\Debug\netcoreapp2.0\basic13.runtimeconfig.dev.json
+C:\Users\56ole\Desktop\DojoAssignments\netCore\basic13\bin\Debug\netcoreapp2.0\basic13.dll
+C:\Users\56ole\Desktop\DojoAssignments\netCore\basic13\bin\Debug\netcoreapp2.0\basic13.pdb
+C:\Users\56ole\Desktop\DojoAssignments\netCore\basic13\obj\Debug\netcoreapp2.0\basic13.csproj.CoreCompileInputs.cache
+C:\Users\56ole\Desktop\DojoAssignments\netCore\basic13\obj\Debug\netcoreapp2.0\basic13.AssemblyInfoInputs.cache
+C:\Users\56ole\Desktop\DojoAssignments\netCore\basic13\obj\Debug\netcoreapp2.0\basic13.AssemblyInfo.cs
+C:\Users\56ole\Desktop\DojoAssignments\netCore\basic13\obj\Debug\netcoreapp2.0\basic13.dll
+C:\Users\56ole\Desktop\DojoAssignments\netCore\basic13\obj\Debug\netcoreapp2.0\basic13.pdb
